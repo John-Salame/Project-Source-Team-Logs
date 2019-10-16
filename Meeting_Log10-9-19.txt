@@ -1,0 +1,5 @@
+Meeting log 10-9-2019:
+
+Checked in with everyone on the status of their individual front-end assignments.
+
+Discussed search function re: How search will categorize projects for display.
